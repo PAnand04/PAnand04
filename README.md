@@ -24,14 +24,6 @@ Currently building practical analytics projects and preparing for Data Analyst o
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## ⭐ Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PAnand04&repo=data-jobs-dashboard&theme=tokyonight)](https://github.com/PAnand04/data-jobs-dashboard)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PAnand04&repo=airbnb-performance-dashboard&theme=tokyonight)](https://github.com/PAnand04/airbnb-performance-dashboard)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PAnand04&repo=Car-Analytics-ETL-SQL&theme=tokyonight)](https://github.com/PAnand04/Car-Analytics-ETL-SQL)
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=PAnand04&show_icons=true&theme=tokyonight)
@@ -40,12 +32,7 @@ Currently building practical analytics projects and preparing for Data Analyst o
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PAnand04&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PAnand04&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallak-anand-a07215317)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallakaanand@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallak-anand-a07215317) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallakaanand@gmail.com)
