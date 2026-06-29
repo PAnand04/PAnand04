@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Pallak Anand 👋
 
-<!--
-**PAnand04/PAnand04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓MCA Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights through SQL, Power BI, Python, and Excel. My repositories showcase end-to-end analytics projects involving ETL, data cleaning, exploratory analysis, data warehousing, and interactive dashboard development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects include:
+- 📊 Interactive Business Intelligence Dashboards
+- 🗄️ ETL & Data Warehouse Development
+- 📈 Data Cleaning & Transformation
+- 🔍 Exploratory Data Analysis
+- 📉 Business KPI Reporting
+
+### Tech Stack
+- SQL | MySQL
+- Power BI | DAX | Power Query
+- Python (Pandas, NumPy, Matplotlib)
+- Microsoft Excel
+- Git & GitHub
+
+Currently building practical analytics projects and preparing for Data Analyst opportunities.
